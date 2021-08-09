@@ -1,0 +1,3 @@
+# genArt
+
+Generative Art Exploration
